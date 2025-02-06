@@ -1,7 +1,7 @@
 # Calculator App
 
 ## Overview
-This is a simple Calculator App developed using Flutter. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+This is a simple Calculator App developed using Flutter. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.(  its inside task1/calculator_app  )
 
 ## Features
 - Perform basic arithmetic operations
