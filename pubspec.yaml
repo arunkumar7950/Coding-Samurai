@@ -1,0 +1,17 @@
+name: task2
+description: A simple Flutter app for a To-Do list with SharedPreferences.
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.15  # You can specify the latest version
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
