@@ -2,7 +2,9 @@
 # Coding Samurai Internship - App Development
 
 ## Task 1: Simple Calculator App
-
+# before runing you need to run in the terminal ( flutter pub add math_expressions )
+#                                                (  flutter run   )
+to get an output
 ### Overview:
 The Simple Calculator App is a basic Flutter application designed to perform simple arithmetic operations such as addition, subtraction, multiplication, and division. This app has a clean and minimalistic UI, with easy-to-use buttons for numbers and operations.
 
@@ -19,21 +21,4 @@ The Simple Calculator App is a basic Flutter application designed to perform sim
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-=======
-# task1
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 0d7e622 (Initialized Coding-Samurai with task1 and task2 Flutter apps)
