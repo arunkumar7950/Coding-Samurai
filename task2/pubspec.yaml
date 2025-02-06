@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-name: calculator_app
-=======
-name: task1
->>>>>>> 0d7e622 (Initialized Coding-Samurai with task1 and task2 Flutter apps)
+name: task2
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -38,10 +34,6 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
-<<<<<<< HEAD
-  math_expressions: ^2.6.0
-=======
->>>>>>> 0d7e622 (Initialized Coding-Samurai with task1 and task2 Flutter apps)
 
 dev_dependencies:
   flutter_test:
